@@ -1,0 +1,47 @@
+#Sh1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: bold;
+    margin-top: 7px;
+}
+.signin001{
+    color: white;
+    border-color: red;
+    background-color: red;
+    margin-left: 10px;
+    border-radius: 10%;
+    height: 36px;
+}
+.nav{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1050;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+}
+
+.content-font{
+    font: bold;
+        
+}
+.priceh6{
+    font-weight: lighter;
+    color: rgba(3, 4, 4, 0.596);
+}
+.Brandname001{
+    margin: 50px;
+    justify-content: center;
+    width: 75%;
+    margin-left: 170px;
+}
+.col{
+    padding: 20px;
+}
+.offer-ancher{
+    text-decoration: none;
+}
+.total{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
