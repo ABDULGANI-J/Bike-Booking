@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import mybg from "../Bike-Booking/images/3460583.jpg";
+// import mybg from "../Bike-Booking/images/3460583.jpg";
 
 function Login(){
     
