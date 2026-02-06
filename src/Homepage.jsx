@@ -10,7 +10,7 @@ function Homepage(){
         <title>Bike Spot | Homepage</title>
         <nav class="navbar navbar-expand-lg bg-body-tertiary" style={{position:"fixed", zIndex:1050, boxShadow:0}}>
         <div class="container-fluid">
-                <div><img src="/src/assets/vecteezy_industrial-gears-close-up-factory-product-studio-detail_56819477.png" width="50" height="42"/></div>
+                <div><img src="/public/images/vecteezy_industrial-gears-close-up-factory-product-studio-detail_56819477.png" width="50" height="42"/></div>
                 <div><h3 id="Sh1">Bikers Stop</h3></div>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div style={{marginLeft:950}}>
