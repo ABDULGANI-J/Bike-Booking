@@ -10,7 +10,7 @@ function Homepage(){
         <title>Bike Spot | Homepage</title>
         <nav class="navbar navbar-expand-lg bg-body-tertiary" style={{position:"fixed", zIndex:1050, boxShadow:0}}>
         <div class="container-fluid">
-                <div><img src="/public/images/vecteezy_industrial-gears-close-up-factory-product-studio-detail_56819477.png" width="50" height="42"/></div>
+                <div><img src="/Bike-Booking/images/vecteezy_industrial-gears-close-up-factory-product-studio-detail_56819477.png" width="50" height="42"/></div>
                 <div><h3 id="Sh1">Bikers Stop</h3></div>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div style={{marginLeft:950}}>
@@ -30,13 +30,13 @@ function Homepage(){
             <div id="carouselExample" class="carousel slide" >
             <div class="carousel-inner">
                 <div class="carousel-item" style={{width:1200,height:450, marginLeft:150}}>
-                <img src="../public/images/bajaj-pulsar-ns-200-next-level-of-perforamance-biking-pulsar-aur-avenger-models-par-visesh-tyohar-offer-ad-dainik-jagran-agra-13-10-2017.png" class="d-block w-100" alt="..."></img>
+                <img src="../Bike-Booking/images/bajaj-pulsar-ns-200-next-level-of-perforamance-biking-pulsar-aur-avenger-models-par-visesh-tyohar-offer-ad-dainik-jagran-agra-13-10-2017.png" class="d-block w-100" alt="..."></img>
                 </div>
                 <div class="carousel-item active" style={{width:1200,height:450, marginLeft:150}}>
-                <img src="../public/images/20240903114449_Jawa-42FJ.avif" class="d-block w-100" alt="..."></img>
+                <img src="../Bike-Booking/images/20240903114449_Jawa-42FJ.avif" class="d-block w-100" alt="..."></img>
                 </div>
                 <div class="carousel-item" style={{width:1200,height:450, marginLeft:150}}>
-                <img src="../public/images/bike-sale-ads-promotional-banner-template-design_1033790-9958.avif" class="d-block w-100" alt="..."></img>
+                <img src="../Bike-Booking/images/bike-sale-ads-promotional-banner-template-design_1033790-9958.avif" class="d-block w-100" alt="..."></img>
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -64,7 +64,7 @@ function Homepage(){
                 width:300,
                 marginTop:10
             }} whileHover={{ scale: 1.05 }}>
-            <img src="../public/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
+            <img src="../Bike-Booking/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
             <div class="card-body">
                 <h5 class="card-title">Bajaj Pulsar NS 200</h5>
                 <div style={{display:"flex",flexDirection:"row"}}><h3 class="card-text">₹ 1,81,129</h3><h6 style={{margin:10}}>Onwords</h6></div>
@@ -78,7 +78,7 @@ function Homepage(){
                 marginTop:10,
                 marginLeft:20
             }} whileHover={{ scale: 1.05 }}>
-            <img src="../public/images/pulsar-ns-right-side-view-14.webp" class="card-img-top" alt="..."></img>
+            <img src="../Bike-Booking/images/pulsar-ns-right-side-view-14.webp" class="card-img-top" alt="..."></img>
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
                 <div style={{display:"flex",flexDirection:"row"}}><h3 class="card-text">₹ 1,81,129</h3><h6 style={{margin:10}}>Onwords</h6></div>
@@ -91,7 +91,7 @@ function Homepage(){
                 marginTop:10,
                 marginLeft:20
             }} whileHover={{ scale: 1.05 }}>
-            <img src="../public/images/160-duke-right-side-view-14.avif" class="card-img-top" alt="..."></img>
+            <img src="../Bike-Booking/images/160-duke-right-side-view-14.avif" class="card-img-top" alt="..."></img>
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
                 <div style={{display:"flex",flexDirection:"row"}}><h3 class="card-text">₹ 1,81,129</h3><h6 style={{margin:10}}>Onwords</h6></div>
@@ -104,7 +104,7 @@ function Homepage(){
                 marginTop:10,
                 marginLeft:20
             }} whileHover={{ scale: 1.05 }}>
-            <img src="../public/images/bajaj-pulsar-125-neon-single-seat1749479850631.avif" class="card-img-top" alt="..."></img>
+            <img src="../Bike-Booking/images/bajaj-pulsar-125-neon-single-seat1749479850631.avif" class="card-img-top" alt="..."></img>
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
                 <div style={{display:"flex",flexDirection:"row"}}><h3 class="card-text">₹ 1,81,129</h3><h6 style={{margin:10}}>Onwords</h6></div>
@@ -129,7 +129,7 @@ function Homepage(){
                 height:270,
                 marginTop:20,
             }} whileHover={{ borderColor:"blue" }}>
-            <img src="../public/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
+            <img src="../Bike-Booking/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
             <div class="card-body">
                 <h5 class="card-title">Bajaj Pulsar NS 200</h5>
                 <div style={{display:"flex",flexDirection:"row"}}><h5 class="card-text">₹ 1,81,129  </h5><h6 style={{margin:3,marginLeft:8}}>Onwords</h6></div>
@@ -143,7 +143,7 @@ function Homepage(){
                 marginTop:20,
                 marginLeft:20
             }} whileHover={{ borderColor:"blue" }}>
-            <img src="../public/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
+            <img src="../Bike-Booking/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
             <div class="card-body">
                 <h5 class="card-title">Bajaj Pulsar NS 200</h5>
                 <div style={{display:"flex",flexDirection:"row"}}><h5 class="card-text">₹ 1,81,129  </h5><h6 style={{margin:3,marginLeft:8}}>Onwords</h6></div>
@@ -157,7 +157,7 @@ function Homepage(){
                 marginTop:20,
                 marginLeft:20
             }} whileHover={{ borderColor:"blue" }}>
-            <img src="../public/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
+            <img src="../Bike-Booking/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
             <div class="card-body">
                 <h5 class="card-title">Bajaj Pulsar NS 200</h5>
                 <div style={{display:"flex",flexDirection:"row"}}><h5 class="card-text">₹ 1,81,129  </h5><h6 style={{margin:3,marginLeft:8}}>Onwords</h6></div>
@@ -171,7 +171,7 @@ function Homepage(){
                 marginTop:20,
                 marginLeft:20
             }} whileHover={{ borderColor:"blue" }}>
-            <img src="../public/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
+            <img src="../Bike-Booking/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
             <div class="card-body">
                 <h5 class="card-title">Bajaj Pulsar NS 200</h5>
                 <div style={{display:"flex",flexDirection:"row"}}><h5 class="card-text">₹ 1,81,129  </h5><h6 style={{margin:3,marginLeft:8}}>Onwords</h6></div>
@@ -185,7 +185,7 @@ function Homepage(){
                 marginTop:20,
                 marginLeft:20
             }} whileHover={{ borderColor:"blue" }}>
-            <img src="../public/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
+            <img src="../Bike-Booking/images/pulsar-ns-right-side-view-11.webp" class="card-img-top" alt="..."></img>
             <div class="card-body">
                 <h5 class="card-title">Bajaj Pulsar NS 200</h5>
                 <div style={{display:"flex",flexDirection:"row"}}><h5 class="card-text">₹ 1,81,129  </h5><h6 style={{margin:3,marginLeft:8}}>Onwords</h6></div>
@@ -198,18 +198,18 @@ function Homepage(){
             <div class="Brandname001">
            <div class="container text-center">
             <div class="row row-cols-4">
-                <div class="col"><img src="../public/images/royal-enfield-brand.avif" style={{width:120}}></img><h6>Royal Enfield</h6></div>
-                <div class="col"><img src="../public/images/tvs-brand.avif" style={{width:120}}></img><h6>TVS</h6></div>
-                <div class="col"><img src="../public/images/bajaj-brand.avif" style={{width:120}}></img><h6>Bajaj</h6></div>
-                <div class="col"><img src="../public/images/yamaha-brand.avif" style={{width:120}}></img><h6>Yamaha</h6></div>
+                <div class="col"><img src="../Bike-Booking/images/royal-enfield-brand.avif" style={{width:120}}></img><h6>Royal Enfield</h6></div>
+                <div class="col"><img src="../Bike-Booking/images/tvs-brand.avif" style={{width:120}}></img><h6>TVS</h6></div>
+                <div class="col"><img src="../Bike-Booking/images/bajaj-brand.avif" style={{width:120}}></img><h6>Bajaj</h6></div>
+                <div class="col"><img src="../Bike-Booking/images/yamaha-brand.avif" style={{width:120}}></img><h6>Yamaha</h6></div>
             </div>
             </div>
             <div class="container text-center">
             <div class="row row-cols-4">
-                <div class="col"><img src="../public/images/hero-brand.avif" style={{width:120}}></img><h6>Hero</h6></div>
-                <div class="col"><img src="../public/images/ktm-brand.avif" style={{width:120}}></img><h6>KTM</h6></div>
-                <div class="col"><img src="../public/images/kawasaki-brand.avif" style={{width:120}}></img><h6>Kawasaki</h6></div>
-                <div class="col"><img src="../public/images/triumph-brand.avif" style={{width:120}}></img><h6>Triumph</h6></div>
+                <div class="col"><img src="../Bike-Booking/images/hero-brand.avif" style={{width:120}}></img><h6>Hero</h6></div>
+                <div class="col"><img src="../Bike-Booking/images/ktm-brand.avif" style={{width:120}}></img><h6>KTM</h6></div>
+                <div class="col"><img src="../Bike-Booking/images/kawasaki-brand.avif" style={{width:120}}></img><h6>Kawasaki</h6></div>
+                <div class="col"><img src="../Bike-Booking/images/triumph-brand.avif" style={{width:120}}></img><h6>Triumph</h6></div>
             </div>
             </div>
             </div>
